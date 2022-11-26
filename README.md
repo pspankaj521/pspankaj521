@@ -10,7 +10,7 @@ I look forward to working on projects and demonstrating my skills and knowledge.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pspankaj521" alt="pspankaj521" /></a> </p>
 
-- 🌱 I’m currently learning **React, MERN**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me [link](**pankaj.singh2151994@gmail.com**)
 
