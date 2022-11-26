@@ -1,6 +1,8 @@
 ![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
-<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+
+<h1 align="left">Hi 👋, I'm Pankaj Singh</h1>
+<h3 align="left">Full stack web developer </h3>
+<h3 align="left">A person with quick learning capability and always ready-to-learn attitude, who just wants to learn new skills and contribute to personal and organizational growth. Looking forward to working on projects and showing my skills. </h3>
 <!-- <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="image" width="600" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pspankaj521&label=Profile%20views&color=0e75b6&style=flat" alt="pspankaj521"  /> </p>
@@ -9,9 +11,9 @@
 
 - 🌱 I’m currently learning **React, MERN**
 
-- 📫 How to reach me **pankaj.singh2151994@gmail.com**
+- 📫 How to reach me [link](**pankaj.singh2151994@gmail.com**)
 
-- ⚡ Fun fact **As an army brat, I can adjust anywhere.**
+- ⚡ Fun fact **As an army brat, I can adjust in any situation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pspankaj521&show_icons=true&locale=en&layout=compact" alt="pspankaj521" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pspankaj521&show_icons=true&locale=en" alt="pspankaj521" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pspankaj521)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pspankaj521)  
