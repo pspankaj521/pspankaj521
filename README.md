@@ -4,6 +4,8 @@
 <h3 align="left">Full stack web developer </h3>
 <h3 align="left">A person with quick learning capability and always ready-to-learn attitude, who just wants to learn new skills and contribute to personal and organizational growth. In addition to being a technical person, I also have knowledge of history, polity, geography, geopolitics, international relations.
 I look forward to working on projects and demonstrating my skills and knowledge. </h3>
+
+<h3 align="left">Hobbies and interest : Yoga, cycling and trekking ⚡</h3>
 <!-- <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="image" width="600" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pspankaj521&label=Profile%20views&color=0e75b6&style=flat" alt="pspankaj521"  /> </p>
