@@ -60,6 +60,6 @@ I look forward to working on projects and demonstrating my skills and knowledge.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pspankaj521&show_icons=true&locale=en" alt="pspankaj521" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pspankaj521)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pspankaj521)  -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pspankaj521)  
