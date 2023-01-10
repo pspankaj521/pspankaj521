@@ -87,3 +87,8 @@ I look forward to working on projects and demonstrating my skills and knowledge.
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pspankaj521)  -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pspankaj521)  
+                                                                                                                                              
+ 
+[![Made with love in India](https://camo.githubusercontent.com/28cd0cac34f81270a63b62d994db60a55c4c0feffc4eb3ba7ccfb0c1c02a8eeb/68747470733a2f2f6d616465776974686c6f76652e6e6f772e73682f696e3f68656172743d747275652674656d706c6174653d666f722d7468652d6261646765)](https://camo.githubusercontent.com/28cd0cac34f81270a63b62d994db60a55c4c0feffc4eb3ba7ccfb0c1c02a8eeb/68747470733a2f2f6d616465776974686c6f76652e6e6f772e73682f696e3f68656172743d747275652674656d706c6174653d666f722d7468652d6261646765)
+
+[![ForTheBadge makes-people-smile](https://camo.githubusercontent.com/8cbe6740ce5a5602c9bef293faff5541ba3fb8d18ec689456efcaf1a74112f43/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d616b65732d70656f706c652d736d696c652e737667)](http://forthebadge.com/) [![ForTheBadge powered-by-electricity](https://camo.githubusercontent.com/b5d8de51b09e842e881763a880a3be2523665b764c61ea554f7f0cc4e70917f9/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f706f77657265642d62792d656c6563747269636974792e737667)](http://forthebadge.com/)                                                                                                                                             
